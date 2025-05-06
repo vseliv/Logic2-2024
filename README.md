@@ -9,7 +9,7 @@
 
 ЗАМЕЧАНИЕ К ЗАДАЧЕ 4 ИЗ ЗАДАНИЯ 11: Интерпретация поля рациональных чисел в кольце целых чисел нетривиальна, и знать ее не требуется. Она была доказана Джулией Робинсон, желающие могут прочесть доказательство в: Journal of Symbolic Logic 14 (1949), p. 98-114.
   
-[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2Flogic2-23%2Ftask12.pdf&name=task12.pdf&uid=246453)
+[Актуальное задание для самостоятельной работы](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2Flogic2-23%2Ftask13.pdf&name=task13.pdf&uid=246453&nosw=1)
 
 [Таблица с результатами](https://docs.google.com/spreadsheets/d/1lFhXN9fnKVaCrpkn_cbazBjXst2tADpxd5OLtcbYzUo/edit?gid=0#gid=0)
 
